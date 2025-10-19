@@ -3,3 +3,4 @@ rustup-init.exe
 config/session.json
 config/settings.json
 logs/
+*.pyc
