@@ -1,0 +1,5 @@
+venv310/
+rustup-init.exe
+config/session.json
+config/settings.json
+logs/
